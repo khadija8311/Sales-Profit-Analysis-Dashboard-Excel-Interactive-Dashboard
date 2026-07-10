@@ -29,7 +29,7 @@ This project is an interactive Excel dashboard designed to analyze sales perform
 
 ## 📷 Dashboard Preview
 
-![Dashboard](images/Capture1.png)
+![Capture1](images/Capture1.png)
 
 ## 📂 Files
 - Excel_Dashboard.xlsx
