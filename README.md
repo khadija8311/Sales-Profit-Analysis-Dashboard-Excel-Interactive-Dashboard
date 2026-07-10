@@ -27,10 +27,6 @@ This project is an interactive Excel dashboard designed to analyze sales perform
 - Monthly Sales Trend
 - Top Performing Products
 
-## 📷 Dashboard Preview
-
-![Capture1](images/Capture1.png)
-
 ## 📂 Files
 - Excel_Dashboard.xlsx
 - Sample Data
