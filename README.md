@@ -38,3 +38,7 @@ This project is an interactive Excel dashboard designed to analyze sales perform
 - Dashboard Design
 - Data Visualization
 - Business Reporting
+
+  
+## GitHub Topics (Tags)
+- excel dashboard data-analysis microsoft-excel pivot-table pivot-chart data-visualization business-intelligence excel-project sales-dashboard kpi-dashboard
